@@ -9,4 +9,3 @@ python-dotenv
 supabase
 psycopg2-binary
 storage3
-s
